@@ -10,10 +10,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int appleAmount, applePrice;
-            float radius, speed;
-            bool isOpen, haveApple;
-            string appleAmountText, applePriceText;
+            int appleAmount;
+            int applePrice;
+            float radius;
+            float speed;
+            bool isOpen;
+            bool haveApple;
+            string appleAmountText;
+            string applePriceText;
             double weight = 0.25;
             char firstLetterAlphabet = 'A';
 
